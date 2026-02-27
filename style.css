@@ -1,0 +1,31 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+/* main page */
+
+.title {
+  text-align: center;
+}
+
+.container {
+  background: #fff;
+  width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  padding-top: 8px;
+}
+
+.recipe {
+  background: #cacdf1;
+  padding: 8px;
+  margin-bottom: 8px;
+  margin-right: auto;
+}
+
+/* recipe pages */
+
